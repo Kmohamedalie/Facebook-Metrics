@@ -1,0 +1,4 @@
+Three note books
+- Two Sklearn notebook with one using train_test_split and the other manual splitting
+- One statsmodels
+   
