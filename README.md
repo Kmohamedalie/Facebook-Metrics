@@ -4,7 +4,7 @@
 
 **Dataset:** [UCI machine learning](https://archive.ics.uci.edu/dataset/368/facebook+metrics)
 
-**Notebook:**
+**Notebook:** [Link](https://github.com/Kmohamedalie/Facebook-Metrics/tree/master/Notebooks)
 
 ## Additional Information
 
