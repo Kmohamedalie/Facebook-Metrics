@@ -8,9 +8,12 @@
 
 **Packages used:** [statsmodels](https://www.statsmodels.org/stable/index.html),   [sklearn](https://scikit-learn.org/stable/)
 
-**Achieved Metrics:**  R-square of 1.0
+**Metrics:**
 
-![image](https://github.com/Kmohamedalie/Facebook-Metrics-Regression/assets/63104472/7101b80f-0ec2-4fd2-ae62-d7ce311440b6)
+| Algorithm         |    MAE    |     MSE       |     RMSE   |    R2     |
+|------------------ |-----------|---------------|------------|-----------|
+| Linear Regression | 3.911574e-13 |	2.601279e-25	| 5.100273e-13 |	1.0 |
+
 
 
 ## Additional Information
