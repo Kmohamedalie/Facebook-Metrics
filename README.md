@@ -8,7 +8,7 @@
 
 **Packages used:** [statsmodels](https://www.statsmodels.org/stable/index.html),   [sklearn](https://scikit-learn.org/stable/)
 
-**Metrics:**
+**Metrics:** 
 
 | Algorithm         |    MAE    |     MSE       |     RMSE   |    R2     |
 |------------------ |-----------|---------------|------------|-----------|
